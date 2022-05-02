@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#menu-mobile{
+    display: flex;
+    padding: 10px;
+    width: 20%;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+}
+
+#menu-mobile span{
+    height: 5px;
+    width: 40px;
+    min-width: 20px;
+    background-color: aliceblue;
+}
+
+/* ATIVAR ANIMAÇÕES */
+
+.span0_enabled{ animation: move_first_span 800ms ease forwards; }
+
+.span1_enabled{
+    animation: move_middle_span 800ms ease forwards;
+}
+
+.span2_enabled{
+    animation: move_last_span 800ms ease forwards;
+}
+
+/* DESATIVAR ANIMAÇÕES */
+
+.span0_disabled{
+    animation: return_first_span 800ms ease forwards;
+}
+
+.span1_disabled{
+    animation: return_middle_span 800ms ease forwards;
+}
+
+.span2_disabled{
+    animation: return_last_span 800ms ease forwards;
+}

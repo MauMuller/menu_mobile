@@ -5,7 +5,7 @@ Esse menu funciona assim como todos os outros mobile's menu, porém, este possui
 Não foi utilizado nenhum FRAMEWORKS ou BIBLIOTECA, foi feito com apenas com ECMAScript, CSS e HTML
 
 ## HTML 
-Pensei em fazer algo prático de ser utilizado, por isso, o **HTML é extremamente pequeno**, fazendo o CSS e o JS brilhar na construção!
+O HTML, assim como é possível ver, não é uma imagem, ou seja, basta copiar e colar o menu em seu código para funcionar da devida maneira!
 ```HTML
 <div id="menu-mobile"> //Os "span's" são as linhas do menu
     <span></span>

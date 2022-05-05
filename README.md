@@ -15,4 +15,5 @@ O HTML, assim como é possível ver, não é uma imagem, ou seja, basta copiar e
 ```
 ## Minify 📍
 Também disponibilizei os três arquivos em -MINIFY- caso prefira utilizar.
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ 
+ ![transferir](https://user-images.githubusercontent.com/82516932/166858223-d947070f-afde-43c7-82c3-73a479d8bd6f.png)

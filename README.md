@@ -16,8 +16,11 @@ O HTML, assim como é possível ver, não é uma imagem, ou seja, basta copiar e
 ## Minify 📍
 Também disponibilizei os três arquivos em -MINIFY- caso prefira utilizar.
  
- ![transferir](https://user-images.githubusercontent.com/82516932/166858223-d947070f-afde-43c7-82c3-73a479d8bd6f.png)
+![transferir](https://user-images.githubusercontent.com/82516932/166858223-d947070f-afde-43c7-82c3-73a479d8bd6f.png)
 
-## Ilustrações 🎥
+## Ilustração 🎥
+![GIF](https://user-images.githubusercontent.com/82516932/166860227-ee9626a0-eee6-4715-9522-2af02d28cdee.gif)
 
-<!-- ![gif](https://user-images.githubusercontent.com/82516932/166859939-5cffc973-5221-4fd0-9660-ef64f4459d98.gif) -->
+
+## e por fim....
+__UTILIZE COM MODERAÇÃO!! 😝__

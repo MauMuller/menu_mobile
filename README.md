@@ -13,6 +13,6 @@ O HTML, assim como é possível ver, não é uma imagem, ou seja, basta copiar e
     <span></span>
 </div>
 ```
-
-
-
+## Minify 📍
+Também disponibilizei os três arquivos em -MINIFY- caso prefira utilizar.
+ ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
